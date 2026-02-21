@@ -1,2 +1,1 @@
-// Version 1
-// Feature: Initial setup
+console.log('Hello, World!');
